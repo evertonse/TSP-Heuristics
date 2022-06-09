@@ -15,7 +15,7 @@ Separo abaixo entre pastas, textos e arquivos interessantes para essa implementa
 
 #### Pastas:
 
-"src"    : Todo o código e textos então nesas pasta 
+"src"    : Todo o código e textos então nesas pasta <\br>
 "data"	 : Os dados da base de dado e serialização do grafos
 "exgraph": As implementações dos Grafos, DiGrafos, MultiGrafos, além de algums algortimos uteis como 'hierholzer' e 'prims'
 "ds"	 : Estrutura de dados auxiliares
