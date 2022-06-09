@@ -1,5 +1,5 @@
 
-## Implementação:
+## Implementação de 5 heuristicas para TSP:
 Foram implementadas as heuristicas : 
 	Bellmore & Nemhauser, 
 	Twice-Around,
@@ -13,16 +13,17 @@ IMPORTANTE: Na implementação do  Christofides, foi utilizado uma library apena
 ## Código:
 Separo abaixo entre pastas, textos e arquivos interessantes para essa implementação.
 
-Pastas:
+#### Pastas:
+
 "src"    : Todo o código e textos então nesas pasta 
 "data"	 : Os dados da base de dado e serialização do grafos
 "exgraph": As implementações dos Grafos, DiGrafos, MultiGrafos, além de algums algortimos uteis como 'hierholzer' e 'prims'
 "ds"	 : Estrutura de dados auxiliares
 
-Textos:
+#### Textos:
 "TSP Heuristic Tours Info {nome da heuristica}.txt" : Ciclos encontrados, informações sobre tempo de excução, custos e outras info.
 	
-Arquivos:
+#### Arquivos:
 "tspheuristics.py" : Algoritmos implementados para cada Heuristica
 "tspgraphs.py"	   : Coleta e serialização dos grafos retirados da base de dados fornecida.
 "main.py"	   : Começo do programa
@@ -35,5 +36,3 @@ Contém detalhes da implementação, explicação teorica, tabela informando tem
 
 ## OBS:
 Qualquer esclarecimento ou problemas, por favor fale comigo, email: evertonse.junior@gmail.com
-
-Obrigado pelo periodo e empenho nessa materia, tanto pelas gravações do conteudo como também pela disponibilidade de responder o aluno por email, obrigado e boas férias.
