@@ -1,0 +1,55 @@
+
+>---------------------------------------------------
+Graph: att48, |V| = 48, |E| = 1128
+Heuristic: bellmore_nemhauser
+Tour: [1, 9, 38, 31, 44, 18, 7, 28, 36, 30, 6, 37, 19, 27, 43, 17, 46, 33, 15, 12, 11, 23, 14, 25, 13, 21, 47, 20, 40, 3, 22, 16, 41, 34, 29, 5, 48, 39, 32, 24, 10, 42, 26, 4, 35, 45, 2, 8, 1]
+0.0001255s execution time
+40551.0 cost using heuristic bellmore_nemhauser
+33523.0 cost of best path
+1.2096 ratio bellmore_nemhauser/best
+<---------------------------------------------------
+
+
+>---------------------------------------------------
+Graph: five, |V| = 5, |E| = 10
+Heuristic: bellmore_nemhauser
+Tour: [1, 4, 3, 2, 5, 1]
+0.0000270s execution time
+21.0 cost using heuristic bellmore_nemhauser
+19.0 cost of best path
+ ratio bellmore_nemhauser/best
+<---------------------------------------------------
+
+
+>---------------------------------------------------
+Graph: dantzig42, |V| = 42, |E| = 861
+Heuristic: bellmore_nemhauser
+Tour: [1, 41, 42, 2, 40, 39, 38, 37, 35, 34, 31, 30, 32, 33, 29, 28, 27, 26, 25, 24, 10, 9, 8, 7, 6, 5, 4, 3, 36, 21, 22, 23, 17, 16, 18, 19, 20, 13, 14, 15, 12, 11, 1]
+0.0000994s execution time
+956.0 cost using heuristic bellmore_nemhauser
+699.0 cost of best path
+ ratio bellmore_nemhauser/best
+<---------------------------------------------------
+
+
+>---------------------------------------------------
+Graph: fri26, |V| = 26, |E| = 325
+Heuristic: bellmore_nemhauser
+Tour: [1, 15, 14, 10, 11, 13, 12, 9, 7, 8, 16, 19, 20, 18, 17, 21, 22, 26, 23, 24, 25, 3, 2, 4, 5, 6, 1]
+0.0000679s execution time
+1112.0 cost using heuristic bellmore_nemhauser
+937.0 cost of best path
+ratio bellmore_nemhauser/best
+<---------------------------------------------------
+
+
+>---------------------------------------------------
+Graph: p01, |V| = 15, |E| = 105
+Heuristic: bellmore_nemhauser
+Tour: [1, 13, 2, 15, 9, 5, 7, 3, 12, 14, 10, 8, 6, 4, 11, 1]
+0.0000396s execution time
+291.0 cost using heuristic bellmore_nemhauser
+291.0 cost of best path
+ ratio bellmore_nemhauser/best
+<---------------------------------------------------
+
