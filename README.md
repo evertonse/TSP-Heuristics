@@ -1,11 +1,12 @@
 
 ## Implementação de 5 heuristicas para TSP:
 Foram implementadas as heuristicas : 
-	* Bellmore & Nemhauser, 
-	* Twice-Around,
-	* Christofides,
-	* Insere Vértice 1
-	* e Insere Vértice 2
+
+* Bellmore & Nemhauser, 
+* Twice-Around,
+* Christofides,
+* Insere Vértice 1
+* e Insere Vértice 2
 
 IMPORTANTE: Na implementação do  Christofides, foi utilizado uma library apenas especificamente na parte do 'matching perfeito'.
 	Fora isso, todo o resto foi feito inteiramente por mim.
